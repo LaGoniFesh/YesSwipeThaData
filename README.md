@@ -3,9 +3,9 @@
                            ☺ReadME☺
 
 
-                -----------------------------------
+                
 					      •☺•2025 Deleted Files Overwriter•☺•
-					      -----------------------------------
+					      
 					 
 	•For industrial-strength wiping, tools like shred, dd, or srm are recommended.
 					 
